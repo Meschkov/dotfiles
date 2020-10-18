@@ -7,3 +7,4 @@ Window move and resize behavior like [Spectacle App](https://www.spectacleapp.co
 
 ## Setup
 Paste content of [lubuntu-rc.xml](./lubuntu-rc.xml) to `~/.config/openbox/lubuntu-rc.xml` and comment out lines that are outcommented in file to avoid duplicate key bindings.
+After savig file run `openbox --reconfigure` in terminal.
